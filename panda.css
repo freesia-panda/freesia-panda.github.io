@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+body {
+font-family: "Avenir Next";
+}
+
+li {
+list-style: none;
+}
+
+
+.header {
+  background-color: #26d0c9;
+  height: 80px;
+  
+}
+
+.header-logo {
+  
+  font-weight: bold;
+  color: #ff8d8d;
+  text-align: center;
+  font-size: 50px;
+  padding: 12px 28px;
+}
+
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+  padding: 5px 20px;
+}
+
+
+.copy-container h1 {
+  font-size: 25px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.copy-container p {
+  text-align: center;
+  padding-left: 10px;
+}
+
+
+.contents-item {
+  float: left;
+}
+
+h3 {
+  padding-left: 10px;
+}
+
+.section-title {
+  border-bottom: 2px solid green;
+}
+
+.pic_frame {
+  text-align: center;
+  float: left;
+  margin-right: 10px;
+  color: green;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 100px;
+}
+
+.footer-logo {
+  font-size: 16px;
+  float: left;
+  padding: 20px; 40px;
+}
+
+.footer-list {
+  float: right;
+}
+.footer-list li {
+  padding: 10px;
+}
