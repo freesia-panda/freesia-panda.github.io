@@ -58,6 +58,8 @@ h3 {
 .contents-item {
   text-align: center;
   float: left;
+  margin-right: 10px;
+  color: green;
 }
 
 .footer {
