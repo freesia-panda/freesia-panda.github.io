@@ -9,7 +9,7 @@ list-style: none;
 }
 
 
-.header {
+header {
   background-color: #26d0c9;
   height: 80px; 
 }
@@ -86,7 +86,7 @@ h3 {
   left: 0;
 }
 
-.footer {
+footer {
   background-color: #2f5167;
   color: #fff;
   height: 120px;
