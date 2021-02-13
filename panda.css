@@ -74,7 +74,10 @@ h3 {
   display: inline-block;
   opacity: 0.8;
 }
-  
+
+.signup {
+  background-color: skyblue;
+}
 
 .frame-wrapper__video {
   position: relative;
