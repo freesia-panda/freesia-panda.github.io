@@ -67,6 +67,13 @@ h3 {
   margin: 20px 25px 0px 25px;
   color: green;
 }
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+}
   
 
 .frame-wrapper__video {
