@@ -14,7 +14,10 @@ list-style: none;
 
 header {
   background-color: #26d0c9;
-  height: 80px; 
+  height: 80px;
+  position: fixed;
+  top: 0;
+  z-index: 10;
 }
 
 .header-logo {
@@ -23,9 +26,6 @@ header {
   text-align: center;
   font-size: 50px;
   padding: 12px 28px;
-  position: fixed;
-  top: 0;
-  z-index: 10;
 }
 
 
