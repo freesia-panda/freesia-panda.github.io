@@ -1,0 +1,17 @@
+/* タブレット向けレイアウト */
+@media (max-width: 1000px) {
+  .comtents-item {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+/* スマホ向けレイアウト */
+@media (max-width: 670px) {
+  .contents-item {
+    width: 100%;
+  }
+
+  footer {
+    text-align: center;
+  }
