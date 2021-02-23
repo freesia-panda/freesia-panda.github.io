@@ -17,6 +17,11 @@ li {
 list-style: none;
 }
 
+img, .contents-item p {
+  display: none;
+}
+
+
 
 .header {
   background-color: #26d0c9;
@@ -70,7 +75,7 @@ list-style: none;
   border-bottom: 2px solid green;
 }
 
-.comtents {
+.contents {
   width: 100%;
 }
 
