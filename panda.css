@@ -17,11 +17,6 @@ li {
 list-style: none;
 }
 
-img, .contents-item p {
-  display: none;
-}
-
-
 
 .header {
   background-color: #26d0c9;
