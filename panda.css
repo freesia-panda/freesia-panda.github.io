@@ -78,7 +78,7 @@ img, .contents-item p, .contents-item2 p {
   width: 100%;
 }
 
-.contents-item {
+.contents-item, .contents-item2 {
   width: 25%;
   text-align: center;
   float: left;
