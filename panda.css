@@ -86,6 +86,10 @@ img, .contents-item p, .contents-item2 p {
   color: green;
 }
 
+.contents-item p, .contents-item2 p {
+  cursor: pointer;
+}
+
 #btn-wrapper {
   text-align: center;
 }
