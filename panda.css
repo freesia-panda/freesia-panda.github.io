@@ -20,6 +20,8 @@ list-style: none;
 img, .contents-item p, .contents-item2 p {
   display: none;
   margin: auto;
+  text-align: center;
+  color: green;
 }
 
 .header {
