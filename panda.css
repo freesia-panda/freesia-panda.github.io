@@ -20,8 +20,6 @@ list-style: none;
 img, .contents-item p, .contents-item2 p {
   display: none;
   margin: auto;
-  text-align: center;
-  color: green;
 }
 
 .header {
@@ -86,6 +84,10 @@ img, .contents-item p, .contents-item2 p {
   float: left;
   padding: 22px 10px;
   color: green;
+}
+
+.contents-item2 {
+  padding: 0 16px;
 }
 
 .contents-item p, .contents-item2 p {
