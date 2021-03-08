@@ -8,7 +8,7 @@
 
 /* スマホ向けレイアウト */
 @media (max-width: 665px) {
-  .contents-item {
+  .contents-item, .contents-item2 {
     width: 100%;
   }
 .header-logo {
