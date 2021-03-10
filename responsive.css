@@ -11,10 +11,21 @@
   .contents-item, .contents-item2 {
     width: 100%;
   }
-.header-logo {
+
+  .header-logo {
     line-height: 66px;
     font-size: 228%;
   }
+
+  .child {
+    position: absolute;
+    top: 75px;
+    left: 30px;
+    width: 30%;
+    height: auto;
+  }
+
+
   footer {
     text-align: center;
   }
