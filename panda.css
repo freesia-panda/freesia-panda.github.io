@@ -22,6 +22,8 @@ img, .contents-item p, .contents-item2 p {
   margin: auto;
 }
 
+
+
 .header {
   background-color: #26d0c9;
   height: 80px;
@@ -86,6 +88,7 @@ img, .contents-item p, .contents-item2 p {
   float: left;
   padding: 22px 10px;
   color: green;
+  position: relative;
 }
 
 .contents-item2 {
@@ -94,6 +97,13 @@ img, .contents-item p, .contents-item2 p {
 
 .contents-item p, .contents-item2 p {
   cursor: pointer;
+}
+
+.child {
+  position: absolute;
+  top: 110px;
+  width: 70px;
+  height: 70px;
 }
 
 #btn-wrapper {
