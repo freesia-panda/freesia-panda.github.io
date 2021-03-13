@@ -106,7 +106,7 @@ img, .contents-item p, .contents-item2 p {
   height: 70px;
 }
 
-#btn-wrapper {
+.btn-wrapper {
   text-align: center;
 }
 
@@ -120,9 +120,20 @@ img, .contents-item p, .contents-item2 p {
   margin: 10px;
 }
 
+.signup, .emoji, .stamp {
+  box-shadow: 0 5px #2f5168;
+}
+
+.emoji {
+  background-color: darkcyan;
+}
+
+.stamp {
+  background-color: seagreen;
+}
+
 .signup {
   background-color: green;
-  box-shadow: 0 5px #2f5168;
 }
 
 .signup:active {
