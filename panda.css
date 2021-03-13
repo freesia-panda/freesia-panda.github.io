@@ -107,14 +107,9 @@ img, .contents-item p, .contents-item2 p {
 }
 
 .btn-wrapper {
-  float: left;
+  clear: left;
   text-align: center;
 }
-
-.clear {
-  clear: left;
-}
-
 
 .btn {
   padding: 8px 24px;
