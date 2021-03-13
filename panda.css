@@ -111,6 +111,10 @@ img, .contents-item p, .contents-item2 p {
   text-align: center;
 }
 
+.clear {
+  clear: left;
+}
+
 
 .btn {
   padding: 8px 24px;
