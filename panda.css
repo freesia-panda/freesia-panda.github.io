@@ -116,16 +116,21 @@ img, .contents-item p, .contents-item2 p {
   color: white;
   display: inline-block;
   opacity: 0.8;
-  border-radius: 10px;
+  border-radius: 20px;
   margin: 10px;
+  box-shadow: 0 5px #1b1717;
+  font-family: none;
 }
 
-.signup, .emoji, .stamp {
-  box-shadow: 0 5px #2f5168;
+.btn:active {
+  position: relative;
+  top: 5px;
+  box-shadow: none;
 }
 
 .emoji {
   background-color: darkcyan;
+  letter-spacing: 1px;
 }
 
 .stamp {
@@ -133,13 +138,8 @@ img, .contents-item p, .contents-item2 p {
 }
 
 .signup {
-  background-color: green;
-}
-
-.signup:active {
-  position: relative;
-  top: 5px;
-  box-shadow: none;
+  background-color: crimson;
+  letter-spacing: 5px;
 }
 
 
