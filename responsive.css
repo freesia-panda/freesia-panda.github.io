@@ -28,6 +28,7 @@
   .btn-wrapper {
     flex-direction: column;
     padding: 10px;
+    margin: 0 auto;
   }
 
 
