@@ -108,6 +108,7 @@ img, .contents-item p, .contents-item2 p {
 .btn-wrapper {
   clear: left;
   text-align: center;
+  font-weight: bold;
 }
 
 .btn {
