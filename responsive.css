@@ -25,6 +25,11 @@
     height: auto;
   }
 
+  .btn-wrapper {
+    flex-direction: column;
+    padding: 10px;
+  }
+
 
   footer {
     text-align: center;
