@@ -39,6 +39,8 @@ img, .contents-item p, .contents-item2 p {
   text-align: center;
   font-size: 50px;
   padding: 12px 28px;
+  color: #fff;
+  text-shadow: 0 1px 0 #ccc, 0 3px 0 #ccc, 0 4px 10px rgba(0, 0, 0, .2);
 }
 
 
