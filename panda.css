@@ -88,6 +88,8 @@ img, .contents-item p, .contents-item2 p {
   padding: 22px 10px;
   color: green;
   position: relative;
+  font-weight: bold;
+  font-size: larger;
 }
 
 .contents-item2 {
