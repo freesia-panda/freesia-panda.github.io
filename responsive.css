@@ -25,6 +25,12 @@
     height: auto;
   }
 
+  .answer {
+    text-align: center;
+    padding: 0 50px;
+    font-size: 14px;
+  }
+
   .btn-wrapper {
     flex-direction: column;
     padding: 10px;
