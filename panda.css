@@ -66,7 +66,9 @@ img, .contents-item p, .contents-item2 p {
 
 .copy-container p {
   text-align: center;
-  font-family: "Hiragino Kaku Gothic ProN";
+  font-family: "Hiragino maru Gothic ProN";
+  letter-spacing: 1px;
+  color: black;
 }
 
 
@@ -107,7 +109,7 @@ img, .contents-item p, .contents-item2 p {
   padding: 0 16px;
 }
 
-.contents-item p, .contents-item2 p .child {
+.contents-item p, .contents-item2 p {
   cursor: pointer;
 }
 
@@ -130,6 +132,7 @@ img, .contents-item p, .contents-item2 p {
   font-weight: normal;
   display: none;
   color: seagreen;
+  font-family: "Hiragino maru Gothic ProN";
 }
 
 
